@@ -1,3 +1,25 @@
 .min-height-feature-image{
     height: 300px;
 }
+
+.mb-6{
+    margin-bottom: 64px; /*16 x 4*/
+}
+.mb-7{
+    margin-bottom: 80px; /*16 x 5*/
+}
+.mb-8{
+    margin-bottom: 96px; /*16 x 6*/
+}
+.mb-9{
+    margin-bottom: 112px; /*16 x 7*/
+}
+.mb-10{
+    margin-bottom: 128px; /*16 x 8*/
+}
+.mb-11{
+    margin-bottom: 144px; /*16 x 9*/
+}
+.mb-12{
+    margin-bottom: 160px; /*16 x 10*/
+}
