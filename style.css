@@ -23,3 +23,9 @@
 .mb-12{
     margin-bottom: 160px; /*16 x 10*/
 }
+
+.nav-container-fixed{
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
