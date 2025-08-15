@@ -37,10 +37,6 @@ project-folder/
 │── /images
 └── README.md
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 🚀 How to View
